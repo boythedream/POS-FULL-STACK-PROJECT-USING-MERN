@@ -1,0 +1,57 @@
+.ant-layout .site-layout-background {
+    background-color: #fff;
+    box-shadow: 0 0 5px #ccc !important;
+    border-radius: 10px !important;
+    margin: 10px;
+    overflow: hidden !important;
+}
+
+.ant-layout .ant-layout-background {
+
+    overflow: hidden !important;
+}
+
+
+.ant-layout-has-sider {
+    padding: 5px !important;
+    overflow: auto;
+
+}
+
+.ant-menu-item .ant-menu-item-selected {
+    margin: 10px 0px !important;
+}
+
+.ant-layout.ant-layout-has-sider {
+    padding: 15px;
+}
+
+.ant-layout-sider {
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.anticon svg {
+    height: 20px;
+    width: 20;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+
+.cart-item p {
+    margin: 0 8px 0 0;
+}
+
+
+.cart-item span {
+    font-size: 16px;
+    margin-left: 8px;
+}

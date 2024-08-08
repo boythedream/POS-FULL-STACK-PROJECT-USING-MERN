@@ -1,0 +1,17 @@
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.font-weight-bold {
+    font-weight: 700;
+}
+
+.text-success {
+    color: #28a745 !important;
+}
+
+.ant-image .css-dev-only-do-not-override-p8b6i {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}

@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.category {
+  border: 2px solid gray;
+  margin-right: 25px;
+  margin-left: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.category img {
+  margin-left: 10px;
+}
+
+.category-active {
+  border: 2px solig green;
+  background: aqua;
+}
+
+
+
+/* // register page */
+
+
+.register {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  border: 2px solid gray;
+  box-shadow: 2 3 4 gray;
+}
+
+.register input {
+  width: 400px;
+}
+
+.register-form {
+  background-color: #0cbfccd2;
+  box-shadow: 2 3 4 white;
+  padding: 20px;
+}
+
+.register-form h1 {
+  background-color: rgb(9, 9, 70);
+  text-align: center;
+  padding: 7px;
+  color: white;
+}
+
+.register-form h3 {
+  color: rgb(9, 9, 80);
+  text-align: center;
+}
